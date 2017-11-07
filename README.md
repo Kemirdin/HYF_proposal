@@ -8,7 +8,8 @@ proposal for new order of topics, cli, html/css, git, and js
 We start this day at 11.30
 • Introduction to HYF
 • Getting to know each other
-----------
+
+Start HTML/CSS:
 • The division of labor between HTML and CSS
 • Introduction to HTML:
  • Parents, children, attributes
@@ -31,12 +32,12 @@ We start this day at 11.30
 11.30 - 13.30:
 
 • CLI, [lecture 1](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md)
-    - all students install gitbash (which is emulation of UNIX like bash on Windows), Mac and Linux users already have a terminal
-    - With Gitbash, every single student can execute and see the same commands with same output. Also Gitbash is later used to teach Git.
-    - To know the terminal/bash/command line for UNIX based systems. (cd, ls, mkdir, cp and useful bash constructs)
-    - Navigate the file system without using a UI explorer.
-    - Copy, rename and move files with terminal commands.  
----------
+    • all students install gitbash (which is emulation of UNIX like bash on Windows), Mac and Linux users already have a terminal
+    • With Gitbash, every single student can execute and see the same commands with same output. Also Gitbash is later used to teach Git.
+    • To know the terminal/bash/command line for UNIX based systems. (cd, ls, mkdir, cp and useful bash constructs)
+    • Navigate the file system without using a UI explorer.
+    • Copy, rename and move files with terminal commands.  
+
 After the break:
 • Responsive web design
 • Media queries
@@ -45,10 +46,11 @@ After the break:
 
 #### Week 3
 11.30 - 13.30:
-• CLI, [lecture 2]https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-2.md 
-    - Learn output redirection, piping on the terminal.
-    - Write basic shell scripts to ease the programming life.
----------
+• CLI, [lecture 2](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-2.md)
+    • Learn output redirection, piping on the terminal.
+    • Write basic shell scripts to ease the programming life.
+
+
 After the break:
 • Student presentations
 • Last week recap and questions
