@@ -4,7 +4,7 @@ proposal for new order of topics, cli, html/css, git, and js
 
 ## HTML/CSS/CLI
 
-#### Week 1.
+#### Week 1
 We start this day at 11.30
 • Introduction to HYF
 • Getting to know each other
@@ -27,7 +27,7 @@ We start this day at 11.30
 • External files: relative and absolute paths
 • Getting to know your text editor
 
-#### Week 2. 
+#### Week 2
 11.30 - 13.30:
 
 • CLI, [lecture 1](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md)
@@ -43,7 +43,7 @@ After the break:
 • Flexbox
 • How to use the inspector
 
-#### Week 3.
+#### Week 3
 11.30 - 13.30:
 • CLI, [lecture 2]https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-2.md 
     - Learn output redirection, piping on the terminal.
@@ -113,7 +113,7 @@ After the break:
 • (re)writing data structures (in JSON)
 • Promises
 
--------
+
 
 ### Added:
 - MORE OBJECTS!!! (OOP)
