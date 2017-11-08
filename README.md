@@ -1,10 +1,13 @@
 # HYF_proposal
-proposal for new order of topics, cli, html/css, git, and js
+Proposal for new order of topics, cli, html/css, git, and js. And some additional notes about why and how.
 
+Please provide comments/feedback :grin: 
 
 ## HTML/CSS/CLI
 
 #### Week 1
+> before students arrive they all have a text editor installed, have created a slack account, created a Github account and have upload their application assignment in trello. See HTML/CSS [week 0](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week0) for more info on how students should prepare for the first day. Here you can find how we let them hand in their homework with Github pages in the first module: https://github.com/HackYourFuture/HTML-CSS/blob/master/Week1/MAKEME.md#how-to-hand-in-homework
+
 We start this day at 11.30
 - Introduction to HYF
 - Getting to know each other
@@ -30,17 +33,15 @@ Start HTML/CSS:
 
 #### Week 2
 11.30 - 13.30:
-
 > Do we want to start all html/css/cli classes at 11.30 to see how it goes for the first round?
+> BEFORE students arrive they all should have install gitbash (which is emulation of UNIX like bash on Windows), Mac and Linux users already have a terminal. With Gitbash, every single student can execute and see the same commands with same output. Also Gitbash is later used to teach Git.
 
 - CLI, [lecture 1](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md)
-    - all students install gitbash (which is emulation of UNIX like bash on Windows), Mac and Linux users already have a terminal
-    - With Gitbash, every single student can execute and see the same commands with same output. Also Gitbash is later used to teach Git.
     - To know the terminal/bash/command line for UNIX based systems. (cd, ls, mkdir, cp and useful bash constructs)
     - Navigate the file system without using a UI explorer.
     - Copy, rename and move files with terminal commands.  
 
-> The idea is to let students them use the command line to build the folder structures and files they have to drag and drop into GitHub, [homework repo example here](https://github.com/mkruijt/HTML-CSS). Besides the commands that are documented in the CLI repo we can teach them how to open their code editor from the CLI and their index.html in the browser. In this way they can maybe see the intimidate use of CLI
+> The idea is to let students them use the command line to build the folder structures and files they have to drag and drop into GitHub, [homework repo example here](https://github.com/mkruijt/HTML-CSS). Besides the commands that are documented in the CLI repo we can teach them how to open their code editor from the CLI and their index.html in the browser. In this way they can maybe see the intimidate use of CLI. Also in JavaScript1 students will work with Node, hopefully by introducing them to the CLI earlier on it the program they will feel more comfortable working with Node.
 
 _After the break:_
 - Responsive web design
@@ -68,7 +69,26 @@ _After the break:_
 - https://github.com/HackYourFuture/Git/blob/master/Lecture-1.md
 - https://github.com/HackYourFuture/Git/blob/master/Lecture-2.md
 
+After this session students should:
+- Have an understanding of problems for developers working together on software
+- Have an understanding of the need for version control software
+- Have an understanding of what GIT is and what problem it solves.
+- Understand what a commit is and how it represents a certain unit of work
+- Know how to create a new repository using clone and init
+- Know how to add / remove files to that new repository
+- Know how to commit and push files in that new repository.
+- Have an understanding of branches and how they can be used.
+- Know what a remote is and know how to retrieve remote information from git:
+- git remote [show] [-v] [-vv]
+- Know what the difference between the three types of branches are.
+- Know how to navigate between branches and what git commands to use for them.
+- Have an understanding of what HEAD means.
+
+> From now on students can hand in their homework via git.
+
 #### Week 2
+> Before students arrive they should all have installed Node. In JavaScript 1 we will use this to let them run their code. In JavaScript 2 we will work with JavaScript in the Browser and show them how it can work together with what they have learned in HTML/CSS.
+
 - Intro JavaScript (What is it, where can you use it for)
 - Variables [var, let, const]
 - Basic Data types [Strings, Numbers, Arrays, Booleans]
@@ -93,7 +113,9 @@ _After the break:_
 - TODO
 
 #### Week 4
-- JavaScript in the BROWSER with HTML and CSS
+
+> JavaScript in the BROWSER with HTML and CSS
+
 - Capturing user input
 - Basic DOM manipulations [img src, innerHTML]
 - Code debugging using the browser
