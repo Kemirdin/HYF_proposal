@@ -4,7 +4,6 @@ Proposal for new order of topics, cli, html/css, git, and js. And some additiona
 Please provide comments/feedback :grin: 
 
 ## HTML/CSS/CLI
-
 #### Week 1
 > before students arrive they all have a text editor installed, have created a slack account, created a Github account and have upload their application assignment in trello. See HTML/CSS [week 0](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week0) for more info on how students should prepare for the first day. Here you can find how we let them hand in their homework with Github pages in the first module: https://github.com/HackYourFuture/HTML-CSS/blob/master/Week1/MAKEME.md#how-to-hand-in-homework
 
@@ -61,9 +60,7 @@ _After the break:_
 - How to find information on the web
 - How to rebuild an existing responsive page (getting started with this week's homework exercise)
 
-
-## JavaScript/Git
-
+### JavaScript 1/Git/ debugging
 #### Week 1
 - Git (lecture 1 and 2)
 - https://github.com/HackYourFuture/Git/blob/master/Lecture-1.md
@@ -112,6 +109,7 @@ After this session students should:
 #### *Debugging lecture (online lecture during week 3)*
 - TODO
 
+## JavaScript 2
 #### Week 4
 
 > JavaScript in the BROWSER with HTML and CSS
@@ -137,6 +135,7 @@ After this session students should:
 - Events
 - Callbacks
 
+## JavaScript 3
 #### Week 7
 - Object Oriented Programming
 - Code flow (order of execution)
