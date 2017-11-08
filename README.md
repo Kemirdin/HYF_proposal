@@ -31,6 +31,8 @@ Start HTML/CSS:
 #### Week 2
 11.30 - 13.30:
 
+> Do we want to start all html/css/cli classes at 11.30 to see how it goes for the first round?
+
 - CLI, [lecture 1](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md)
     - all students install gitbash (which is emulation of UNIX like bash on Windows), Mac and Linux users already have a terminal
     - With Gitbash, every single student can execute and see the same commands with same output. Also Gitbash is later used to teach Git.
@@ -38,7 +40,9 @@ Start HTML/CSS:
     - Navigate the file system without using a UI explorer.
     - Copy, rename and move files with terminal commands.  
 
-After the break:
+> The idea is to let students them use the command line to build the folder structures and files they have to drag and drop into GitHub, [homework repo example here](https://github.com/mkruijt/HTML-CSS). Besides the commands that are documented in the CLI repo we can teach them how to open their code editor from the CLI and their index.html in the browser. In this way they can maybe see the intimidate use of CLI
+
+_After the break:_
 - Responsive web design
 - Media queries
 - Flexbox
@@ -50,8 +54,7 @@ After the break:
     - Learn output redirection, piping on the terminal.
     - Write basic shell scripts to ease the programming life.
 
-
-After the break:
+_After the break:_
 - Student presentations
 - Last week recap and questions
 - How to find information on the web
@@ -73,12 +76,21 @@ After the break:
 - Naming conventions
 - Conditions
 
+*debugging lecture (online lecture during the week)*
+- TODO
+
 #### Week 3
 - Git [work flow](https://github.com/HackYourFuture/Git/blob/master/Lecture-3.md)
+
+> After this Git session students are able to push pull, fork and make PR, this opens up possibilities for handing in homework and cloning repositories we want them to further work on, as homework. Can for example be used in the debugging lectures, where they fork code that they have to debug.
+
 - Advanced data types [Objects]
 - Statements vs Expressions 
 - Loops (for/while)
 - Functions 
+
+*debugging lecture (online lecture during the week)*
+- TODO
 
 #### Week 4
 - JavaScript in the BROWSER with HTML and CSS
@@ -94,6 +106,8 @@ After the break:
 - JSON
 - Map and filter
 - Arrow functions
+
+> The idea is to let them write arrow functions and use map and filter without going to much in depth about how it work and than the week after come back at the subject while talking about scope and closures
 
 #### Week 6
 - Closures 
@@ -116,14 +130,20 @@ After the break:
 - Promises
 
 
+----------------
 
 ### Added:
 - MORE OBJECTS!!! (OOP)
+- Online Debugging sessions + homework, lectures and assignments can be found here: https://github.com/HackYourFuture/debugging (work in progress)
+- Aria (has been there for a while)
+- All homework is hosted on Github + Github pages from day one HTML/CSS
 
 ### Changed:
-- cli to the html/css module
-- git will be taught the entire day the first day of js1
-- tried to reorganize topics into a more logical order
+- CLI to the HTML/CSS module
+    + Why? It seemed like a good idea to get students more comfortable in their coding environment earlier on in the program. Also this makes that we can move git more to the beginning of js, which has multiple benefits for handing in homework etc. Also this will give more room (breathing space) in the super craped js modules, we need more time here to properly cover all topics.
+- Git will be taught the entire day the first day of js1
+- Tried to reorganize topics into a more logical order
+
 
 ### Removed:
 - Polling
@@ -131,5 +151,10 @@ After the break:
 - TDD 
 
 ### Todo:
+- Add to each module, what we expect students are able to do/builds afterwards, for example for the third module this could be something like (written by Laurens): 
+
+> During this module you will learn how to load data from an external source and reflect that data in the DOM dynamically. You will work with JSON data provided by an API and create your own data structure. This will allow you to make a single page application that is self contained and goes beyond the basic functionality of a web page. (the goal is give a more holistic view of what you can do with what you’ve learned.)
+
 - up until week 4 planning looks ok, after that probably some topics needs to be moved around
+
 
