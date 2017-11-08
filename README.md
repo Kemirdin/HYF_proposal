@@ -76,7 +76,7 @@ _After the break:_
 - Naming conventions
 - Conditions
 
-*debugging lecture (online lecture during the week)*
+#### *Debugging lecture (online lecture during week 2)*
 - TODO
 
 #### Week 3
@@ -89,7 +89,7 @@ _After the break:_
 - Loops (for/while)
 - Functions 
 
-*debugging lecture (online lecture during the week)*
+#### *Debugging lecture (online lecture during week 3)*
 - TODO
 
 #### Week 4
