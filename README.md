@@ -60,7 +60,7 @@ _After the break:_
 - How to find information on the web
 - How to rebuild an existing responsive page (getting started with this week's homework exercise)
 
-### JavaScript 1/Git/ debugging
+## JavaScript 1/Git/ debugging
 #### Week 1
 - Git (lecture 1 and 2)
 - https://github.com/HackYourFuture/Git/blob/master/Lecture-1.md
