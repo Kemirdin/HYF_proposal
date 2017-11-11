@@ -18,7 +18,12 @@ Start HTML/CSS:
  - Indentation
  - Paragraphs, links, images, lists
  - Semantic elements / ARIA ( Thinking about people with disabilities / Google (SEO) )
+    + Introduction to ARIA:
+    + What is ARIA and why is it important?
+    + Using ARIA in HTML
+    + Validating ARIA
 > Making the students aware of why ARIA and semantic elements exists is very good, but I would argue that introducing ARIA in depth here is a bit of an overkill when the students are still struggeling with basic layouts.
+
 - Introduction to CSS:
  - Where can we write it and what difference does that make?
  - Selectors (id, class, element type), properties
