@@ -16,19 +16,20 @@ Start HTML/CSS:
 - Introduction to HTML:
  - Parents, children, attributes
  - Indentation
- - Semantic elements
  - Paragraphs, links, images, lists
-- Introduction to ARIA:
- - What is ARIA and why is it important?
- - Using ARIA in HTML
- - Validating ARIA
+ - Semantic elements / ARIA ( Thinking about people with disabilities / Google (SEO) )
+> Making the students aware of why ARIA and semantic elements exists is very good, but I would argue that introducing ARIA in depth here is a bit of an overkill when the students are still struggeling with basic layouts.
 - Introduction to CSS:
  - Where can we write it and what difference does that make?
  - Selectors (id, class, element type), properties
  - How to structure a CSS file
  - Naming things
+ - The box model ( marging, padding, box-sizing, inline / block ) 
+ - Positioning things ( absolute, fixed etc. )
 - External files: relative and absolute paths
 - Getting to know your text editor
+
+> Another thing I find quite important is to know which CSS-attributes can be used and which ones are problematic with older browsers ( e.g. flexbox ).
 
 #### Week 2
 11.30 - 13.30:
